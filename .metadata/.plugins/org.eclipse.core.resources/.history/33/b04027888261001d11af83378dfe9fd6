@@ -1,0 +1,10 @@
+
+public class ContaPoupanca extends Conta{
+
+	@Override
+	public void imprimirExtrado() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

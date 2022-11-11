@@ -1,0 +1,10 @@
+
+public class Cliente {
+	public String nome;
+	public String setNome;
+
+	public Object getNome() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}
